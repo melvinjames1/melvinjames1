@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm MelvinJames</h1>
-<h3 align="center">A passionate BCA Student</h3>
+<h1 align="center">Hi 👋, I'm Melvin James</h1>
+<h3 align="center">A passionate Computer Science Student</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Angular,python,HTML5,CSS,Javascript**
+- 🌱 I’m currently learning **React,python,CSS,Javascript,Django**
 
 - 💬 Ask me about **DSA and Fullstack Development**
 
