@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melvin James</h1>
-<h3 align="center">A passionate Indie Developer</h3>
+<h3 align="center">A passionate Full Stack / Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melvinjames1&label=Profile%20views&color=0e75b6&style=flat" alt="melvinjames1" /> </p>
 
