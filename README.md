@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Melvin</h1>
-<h3 align="center">A Passionate Indian Game Developer</h3>
+<h3 align="center">A Passionate Indian Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melvinjames1&label=Profile%20views&color=0e75b6&style=flat" alt="melvinjames1" /> </p>
 
 - 🔭 I’m currently working on ** Tierlists Website**
