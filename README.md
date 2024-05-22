@@ -50,7 +50,7 @@
 <h3 align="left">My Github Stats:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinjames1&layout=compact&theme=neon" alt=melvinjames1 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=melvinjames1&show_icons=true&locale=en&theme=neon" alt="melvinjames1" /></p>
+
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=melvinjames1&theme=neon" alt="melvinjames1" /></p>
 
