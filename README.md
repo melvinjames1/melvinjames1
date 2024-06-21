@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Tierlists Website**
 - 👯 I’m looking to collaborate on **Private Group Projects**
-- 🤝 I’m looking for help with **Unity Game Projects**
+- 🤝 I’m looking for help with **Backend Development**
 - 💬 Ask me about **Game Developoment and DSA**
 - 🌍 My portfolio website **https://melvinjames.netlify.app/**
 - 📫 How to reach me **melvin.mj576@gmail.com**
