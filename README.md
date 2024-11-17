@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Private Group Projects**
 - 🤝 I’m looking for help with **Backend Development**
 - 💬 Ask me about **Game Developoment and DSA**
-- 🌍 My portfolio website **https://melvinjames.netlify.app/**
+- 🌍 My portfolio website **https://melvinjames.vercel.app/**
 - 📫 How to reach me **melvin.mj576@gmail.com**
 - 📝 I Share My movie preferences on **https://main--myfavouritemoviesblog1.netlify.app/Favourite-Movies-Blog/**
 - ⚡ Fun fact **The first Video Game "Tennis for two" was built using C, Fortran and Pascal in 1958**
