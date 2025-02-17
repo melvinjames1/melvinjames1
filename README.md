@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on **WebRTC website**
 - 👯 I’m looking to collaborate on **Private Group Projects**
 - 🤝 I’m looking for help with **Backend Development**
-- 💬 Ask me about **Game Developoment and DSA**
 - 🌍 My portfolio website **https://melvinjames.vercel.app**
 - 📫 How to reach me **melvin.mj576@gmail.com**
 - 📝 I Share My movie preferences on **https://myfavouritemoviesblog1.netlify.app/**
