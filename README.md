@@ -47,7 +47,6 @@
 </p>
 
 <h3 align="left">My Github Stats:</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinjames1&layout=compact&theme=neon" alt=melvinjames1 />
 
 
 
