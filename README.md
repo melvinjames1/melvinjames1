@@ -3,13 +3,12 @@
 <h3 align="center">A Passionate Indian Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melvinjames1&label=Profile%20views&color=0e75b6&style=flat" alt="melvinjames1" /> </p>
 
-- 🔭 I’m currently working on **WebRTC website**
-- 👯 I’m looking to collaborate on **Private Group Projects**
-- 🤝 I’m looking for help with **Backend Development**
+- 🔭 I’m currently working on **AWCVS**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤝 I’m looking for help with **MLOps**
 - 🌍 My portfolio website **https://melvinjames.vercel.app**
-- 📫 How to reach me **melvin.mj576@gmail.com**
-- 📝 I Share My movie preferences on **https://myfavouritemoviesblog1.netlify.app/**
-- ⚡ Fun fact **The first Video Game "Tennis for two" was built using C, Fortran and Pascal in 1958**
+- 📫 How to reach me **melvin.rohit.james@gmail.com**
+
 
 
 </div><h3 align="left">Connect with me:</h3>
