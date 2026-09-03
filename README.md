@@ -30,11 +30,11 @@ Open To:
 ```text
 ┌─────────────────────────────────────────────┐
 │ STATUS          : ONLINE                    │
-│ THREAT LEVEL    : LOW                        │
-│ CURRENT PROJECT : AWCVS                      │
-│ FOCUS           : DevSecOps                  │
-│ LEARNING        : Kubernetes & Terraform     │
-│ LOCATION        : India                      │
+│ THREAT LEVEL    : LOW                       │
+│ CURRENT PROJECT : AWCVS                     │
+│ FOCUS           : DevSecOps                 │
+│ LEARNING        : Kubernetes & Terraform    │
+│ LOCATION        : India                     │
 └─────────────────────────────────────────────┘
 ```
 
