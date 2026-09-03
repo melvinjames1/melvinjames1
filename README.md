@@ -1,18 +1,3 @@
-## 🛡️ Security Dashboard
-
-```text
-┌─────────────────────────────────────────────┐
-│ STATUS          : ONLINE                    │
-│ THREAT LEVEL    : LOW                       │
-│ CURRENT PROJECT : AWCVS                     │
-│ FOCUS           : DevSecOps                 │
-│ LEARNING        : Kubernetes & Terraform    │
-│ LOCATION        : India                     │
-└─────────────────────────────────────────────┘
-```
-
----
-
 ## 🚀 About Me
 
 ```yaml
@@ -35,6 +20,22 @@ Open To:
   - Open Source Contributions
   - Security Projects
   - DevOps Collaborations
+```
+
+---
+
+
+## 🛡️ Security Dashboard
+
+```text
+┌─────────────────────────────────────────────┐
+│ STATUS          : ONLINE                    │
+│ THREAT LEVEL    : LOW                        │
+│ CURRENT PROJECT : AWCVS                      │
+│ FOCUS           : DevSecOps                  │
+│ LEARNING        : Kubernetes & Terraform     │
+│ LOCATION        : India                      │
+└─────────────────────────────────────────────┘
 ```
 
 ---
@@ -130,7 +131,11 @@ Open To:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melvinjames1/melvinjames1/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melvinjames1/melvinjames1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melvinjames1/melvinjames1/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/melvinjames1/melvinjames1/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
