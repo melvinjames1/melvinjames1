@@ -95,26 +95,13 @@ Open To:
 
 ## 📊 GitHub Statistics
 
-<!--
-  cache_seconds is added to stop the free Vercel instance from getting
-  rate-limited on every profile view — this is the #1 cause of stats
-  randomly not loading. If cards still go missing often, self-host your
-  own instance (one-click deploy button on the project's GitHub repo)
-  and swap the domain below for your own — that's the permanent fix.
--->
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=melvinjames1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinjames1&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=melvinjames1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=melvinjames1&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </div>
-
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=melvinjames1&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
-
 </div>
 
 ---
