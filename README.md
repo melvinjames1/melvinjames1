@@ -27,3 +27,31 @@
 │ ACTIVE LEARNING : Kubernetes & Terraform Infrastructure │
 │ LOCATION        : India 🇮🇳                             │
 └─────────────────────────────────────────────────────────┘
+identity:
+  name: Melvin James
+  education: MSc Artificial Intelligence & Cybersecurity
+  role: DevSecOps Engineer
+
+core_capabilities:
+  - DevSecOps & Security Automation
+  - Cloud Security Architecture
+  - MLOps & AI Integration
+  - Kubernetes & Infrastructure as Code (IaC)
+
+active_builds:
+  - AWCVS (Automated Web Vulnerability Scanner)
+  - Security Copilot (AI Threat Analysis)
+
+collaborations:
+  - Open Source Security Tooling
+  - DevSecOps Pipeline Integrations
+  - Cloud Defense Architectures
+
+$ whoami
+Melvin James
+
+$ role --target
+DevSecOps Engineer
+
+$ execute --task
+Security Automation & Infrastructure Hardening
