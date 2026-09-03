@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=Melvin%20James&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20Engineer%20%7C%20AI%20%26%20Cybersecurity%20%7C%20Cloud%20Security&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer;AI+%26+Cybersecurity+Student;Cloud+Security+Enthusiast;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+Secure+and+Scalable+Systems" />
-
-</div>
-
----
-
 ## 🛡️ Security Dashboard
 
 ```text
