@@ -1,59 +1,202 @@
-# <div align="center">⚡ Melvin James</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=Melvin%20James&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20Engineer%20%7C%20AI%20%26%20Cybersecurity%20%7C%20Cloud%20Security&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer;AI+%26+Cybersecurity+Student;Cloud+Security+Enthusiast;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+Secure+and+Scalable+Systems" />
+
+</div>
+
+---
+
+## 🛡️ Security Dashboard
+
+```text
+┌─────────────────────────────────────────────┐
+│ STATUS          : ONLINE                    │
+│ THREAT LEVEL    : LOW                        │
+│ CURRENT PROJECT : AWCVS                      │
+│ FOCUS           : DevSecOps                  │
+│ LEARNING        : Kubernetes & Terraform     │
+│ LOCATION        : India                      │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Melvin James
+Education: MSc Artificial Intelligence & Cybersecurity
+Role: Aspiring DevSecOps Engineer
+
+Current Focus:
+  - DevSecOps
+  - Cloud Security
+  - MLOps
+  - Kubernetes
+  - Security Automation
+
+Currently Building:
+  - AWCVS
+  - Security Copilot
+
+Open To:
+  - Open Source Contributions
+  - Security Projects
+  - DevOps Collaborations
+```
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer;AI+%26+Cybersecurity+Specialist;Cloud+Security+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/melvinjames1">
-    <img src="https://my-hex-gl-site.vercel.app/api/3d-card?username=melvinjames1&theme=dark" width="100%" alt="3D Interactive Banner" onerror="this.style.display='none'" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/cyberpunk.gif" width="100%" height="3px" />
+<a href="https://www.linkedin.com/in/melvin-james-303561255">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/MelvinJame61516">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://instagram.com/melvin._.james">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:melvin.rohit.james@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🛡️ Security Operations Center
+## 💻 Tech Stack
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│ STATUS          : ONLINE [SYSTEMS NOMINAL]             │
-│ THREAT LEVEL    : LOW                                   │
-│ CURRENT MISSION : AWCVS & Security Copilot              │
-│ MAIN FOCUS      : DevSecOps | MLOps | Cloud Security    │
-│ ACTIVE LEARNING : Kubernetes & Terraform Infrastructure │
-│ LOCATION        : India 🇮🇳                             │
-└─────────────────────────────────────────────────────────┘
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,go,java,js,cs,c,cpp" />
+</p>
 
-```
-identity:
-  name: Melvin James
-  education: MSc Artificial Intelligence & Cybersecurity
-  role: DevSecOps Engineer
+### DevOps & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,githubactions,firebase" />
+</p>
 
-core_capabilities:
-  - DevSecOps & Security Automation
-  - Cloud Security Architecture
-  - MLOps & AI Integration
-  - Kubernetes & Infrastructure as Code (IaC)
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap" />
+</p>
 
-active_builds:
-  - AWCVS (Automated Web Vulnerability Scanner)
-  - Security Copilot (AI Threat Analysis)
+### Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
 
-collaborations:
-  - Open Source Security Tooling
-  - DevSecOps Pipeline Integrations
-  - Cloud Defense Architectures
+### Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
+### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,blender,arduino" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<!--
+  cache_seconds is added to stop the free Vercel instance from getting
+  rate-limited on every profile view — this is the #1 cause of stats
+  randomly not loading. If cards still go missing often, self-host your
+  own instance (one-click deploy button on the project's GitHub repo)
+  and swap the domain below for your own — that's the permanent fix.
+-->
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=melvinjames1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinjames1&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=melvinjames1&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=melvinjames1&theme=github-compact&hide_border=true" />
+
+</div>
+
+### 🐍 Contribution Snake (animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/melvinjames1/melvinjames1/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+> Not showing up yet? This animation is generated by a GitHub Action, not a static image link — see `snake.yml` below for the one-time setup.
+
+---
+
+## 📋 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melvinjames1&theme=github_dark" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melvinjames1&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melvinjames1&theme=github_dark" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- ☸️ Master Kubernetes
+- 🛡️ Learn Advanced Cloud Security
+- 🔐 Build Secure CI/CD Pipelines
+- 🤖 Deploy AI Applications at Scale
+- ☁️ Earn AWS Security Certifications
+- 🌍 Contribute More to Open Source
+
+---
+
+## 📡 Current Mission
+
+```bash
 $ whoami
 Melvin James
 
-$ role --target
-DevSecOps Engineer
+$ role
+Aspiring DevSecOps Engineer
 
-$ execute --task
-Security Automation & Infrastructure Hardening
+$ focus
+Cloud Security | DevSecOps | MLOps
+
+$ status
+Learning • Building • Securing 🚀
+```
+
+---
+
+<div align="center">
+
+### ⚡ "Security is not a product, it's a process."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
